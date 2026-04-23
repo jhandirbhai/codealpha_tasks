@@ -1,0 +1,10 @@
+# NetWatch — Network Packet Analyzer
+# Install with: pip install -r requirements.txt
+#
+# Windows users: also install Npcap from https://npcap.com
+# Linux users:   run the app with sudo
+
+scapy>=2.5.0
+pandas>=1.5.0
+
+16
